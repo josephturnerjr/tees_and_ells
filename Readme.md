@@ -4,13 +4,19 @@ This is a personal list of tools and libraries I've used, thoughts about them, a
 
 ## Web frameworks
 
-Django (Python)
-Great documentation, growing community, easy to hack on, good tutorial.
-https://www.djangoproject.com/
+    Django (Python)
 
-Node.js (Javascript)
-Interesting model, some sharing of code between web server and web client which can be handy.
-http://nodejs.org/
+    Great documentation, growing community, easy to hack on, good tutorial.
+
+    https://www.djangoproject.com/
+
+
+    Node.js (Javascript)
+
+    Interesting model, some sharing of code between web server and web client which can be handy.
+
+    http://nodejs.org/
+
 
 
 ## Client side
